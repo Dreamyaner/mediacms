@@ -113,10 +113,6 @@ This software uses the following list of awesome technologies: Python, Django, D
 
 ## Who is using it
 
-- **Cinemata** non-profit media, technology and culture organization - https://cinemata.org
-- **Critical Commons** public media archive and fair use advocacy network - https://criticalcommons.org
-- **American Association of Gynecologic Laparoscopists** - https://surgeryu.org/
-
 
 ## How to contribute
 
