@@ -102,9 +102,6 @@ MediaCMS 根据 [GNU Affero 通用公共许可证 v3.0](LICENSE.txt) 发布。
 
 ## 谁在使用
 
-- **Cinemata** 非营利媒体、技术和文化组织 - https://cinemata.org
-- **Critical Commons** 公共媒体档案和合理使用倡导网络 - https://criticalcommons.org
-- **美国妇科腹腔镜学会** - https://surgeryu.org/
 
 ## 如何贡献
 
@@ -237,10 +234,6 @@ This software uses the following list of awesome technologies: Python, Django, D
 
 
 ## Who is using it
-
-- **Cinemata** non-profit media, technology and culture organization - https://cinemata.org
-- **Critical Commons** public media archive and fair use advocacy network - https://criticalcommons.org
-- **American Association of Gynecologic Laparoscopists** - https://surgeryu.org/
 
 
 ## How to contribute

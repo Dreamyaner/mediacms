@@ -145,7 +145,7 @@ docker-compose exec --env TESTING=True -T web pytest tests/test_fixtures.py
 docker-compose exec --env TESTING=True -T web pytest --cov=. --cov-report=html
 ```
 
-当然...我们非常欢迎您帮助我们提高覆盖率 ;)
+当然...我们非常欢迎您帮助我们提高覆盖率 ;
 
 # Developers documentation
 
